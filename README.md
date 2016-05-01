@@ -1,4 +1,7 @@
 # php-images-crop
+
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/8910a56a-8e28-4bce-9bc1-6b4dad39dab4/big.png)](https://insight.sensiolabs.com/projects/8910a56a-8e28-4bce-9bc1-6b4dad39dab4)
+
 Php İmages Crop
 
 
